@@ -5,4 +5,4 @@ A set of daily excericses to increase your joint mobility. Taken from [phrakture
 
 ## Instructions
 
-This html5 presentation uses the reveal.js framework. To start just run []().
+This html5 presentation uses the reveal.js framework. To start just run [http://geraldbaeck.github.io/mobilityWOD/](http://geraldbaeck.github.io/mobilityWOD/).
